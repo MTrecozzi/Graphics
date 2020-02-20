@@ -98,6 +98,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - Added support for Quality Levels to Subsurface Scattering.
 - Added option to disable XR rendering on the camera settings.
 - Added a frame setting for alpha to mask.
+- Added alpha channel support in motion blur pass.
+- Added the HDRP Compositor Tool (in Preview).
 
 ### Fixed
 - Fix when rescale probe all direction below zero (1219246)
